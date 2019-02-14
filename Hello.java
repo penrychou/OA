@@ -4,5 +4,9 @@ public class Hello{
 		
 		System.out.println("hello github");
 	}
+
+        public String sayHello(String name){
+	     return "hello"+name;
+	}
 	
 }
